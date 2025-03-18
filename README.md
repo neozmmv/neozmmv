@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg"/>
 </div>
 
+<br>
+
 <div>
   <img height=180 src=https://github-readme-stats.vercel.app/api?username=neozmmv&show_icons=true&theme=radical&include_all_commits=true>
   <img height=180 src=https://github-readme-stats.vercel.app/api/top-langs/?username=neozmmv&theme=radical&include_all_commits=true>
