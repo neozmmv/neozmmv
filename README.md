@@ -37,10 +37,8 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kalilinux/kalilinux-original.svg"/>
   
 </div>
-
-<br>
-
+<br/>
 <div>
   <img height=200 src=https://github-readme-stats.vercel.app/api?username=neozmmv&show_icons=true&theme=radical&include_all_commits=true>
-  <img height=200 src=https://github-readme-stats.vercel.app/api/top-langs/?username=neozmmv&theme=radical&include_all_commits=true>
+  <img height=195 src=https://github-readme-stats.vercel.app/api/top-langs/?username=neozmmv&theme=radical&include_all_commits=true>
 </div>
