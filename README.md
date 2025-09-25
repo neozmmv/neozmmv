@@ -47,4 +47,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/MetalBotics"> 
     <img src="https://img.shields.io/badge/MetalBotics-black?style=for-the-badge&logo=monster&logoColor=white"/>
   </a>
+  <a href="https://metalfiles.tech">
+    <img src="https://img.shields.io/badge/MetalFiles-lime?style=for-the-badge&logo=files&logoColor=black"/>
+  </a>
+  <a href="https://morfeul.metalbotics.tech"> 
+    <img src="https://img.shields.io/badge/Morfeul-black?style=for-the-badge&logo=monster&logoColor=lime"/>
+  </a>
 </div>
