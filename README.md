@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div>
-  <img height=200 src=https://github-readme-stats.vercel.app/api?username=neozmmv&show_icons=true&theme=github_dark&include_all_commits=true>
-  <img height=195 src=https://github-readme-stats.vercel.app/api/top-langs/?username=neozmmv&theme=github_dark&include_all_commits=true>
+  <img height=200 src=https://git-stats-cmx3.vercel.app/api?username=neozmmv&show_icons=true&theme=github_dark&include_all_commits=true>
+  <img height=195 src=https://git-stats-cmx3.vercel.app/api/top-langs/?username=neozmmv&theme=github_dark&include_all_commits=true>
 </div>
 <br/>
 <div>
