@@ -53,4 +53,7 @@ Here are some ideas to get you started:
   <a href="https://morfeul.metalbotics.tech"> 
     <img src="https://img.shields.io/badge/Morfeul-black?style=for-the-badge&logo=monster&logoColor=lime"/>
   </a>
+  <a href="https://github.com/neozmmv/CubeGate">
+    <img src="https://img.shields.io/badge/CubeGate-blue?style=for-the-badge"/>
+  </a>
 </div>
