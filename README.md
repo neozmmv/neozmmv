@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <a href="https://metalfiles.tech">
     <img src="https://img.shields.io/badge/MetalFiles-lime?style=for-the-badge&logo=files&logoColor=black"/>
   </a>
-  <a href="https://morfeul.metalbotics.tech"> 
+  <a href="https://www.morfeul.com"> 
     <img src="https://img.shields.io/badge/Morfeul-black?style=for-the-badge&logo=monster&logoColor=lime"/>
   </a>
   <a href="https://github.com/neozmmv/CubeGate">
