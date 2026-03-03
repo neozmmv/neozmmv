@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg"/>
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/rust/rust-original.svg"/>
   <br/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg"/>
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/docker/docker-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kalilinux/kalilinux-original.svg"/>
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/go/go-original.svg"/>
   
 </div>
 <br/>
@@ -47,13 +49,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/MetalBotics"> 
     <img src="https://img.shields.io/badge/MetalBotics-black?style=for-the-badge&logo=monster&logoColor=white"/>
   </a>
-  <a href="https://metalfiles.tech">
-    <img src="https://img.shields.io/badge/MetalFiles-lime?style=for-the-badge&logo=files&logoColor=black"/>
+  <a href="https://files.enzogp.dev">
+    <img src="https://img.shields.io/badge/FileTunnel-white?style=for-the-badge&logo=files&logoColor=orange"/>
   </a>
   <a href="https://www.morfeul.com"> 
     <img src="https://img.shields.io/badge/Morfeul-black?style=for-the-badge&logo=monster&logoColor=lime"/>
   </a>
-  <a href="https://github.com/neozmmv/CubeGate">
+  <a href="https://github.com/neozmmv/BlockGate">
     <img src="https://img.shields.io/badge/BlockGate-blue?style=for-the-badge"/>
   </a>
   <a href="https://github.com/neozmmv">
