@@ -59,6 +59,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/neozmmv/BlockGate">
     <img src="https://img.shields.io/badge/BlockGate-blue?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/neozmmv/Lighthouse">
+    <img src="https://img.shields.io/badge/Lighthouse-purple?style=for-the-badge"/>
+  </a>
   <a href="https://github.com/neozmmv">
     <img src="https://img.shields.io/github/followers/neozmmv?label=follow&style=social"/>
   </a>
