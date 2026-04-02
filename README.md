@@ -47,15 +47,15 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div>
-  <a href="https://github.com/MetalBotics"> 
+  <!-- <a href="https://github.com/MetalBotics"> 
     <img src="https://img.shields.io/badge/MetalBotics-black?style=for-the-badge&logo=monster&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://files.enzogp.dev">
     <img src="https://img.shields.io/badge/FileTunnel-white?style=for-the-badge&logo=files&logoColor=orange"/>
   </a>
-  <a href="https://www.morfeul.com"> 
+ <!--  <a href="https://www.morfeul.com"> 
     <img src="https://img.shields.io/badge/Morfeul-black?style=for-the-badge&logo=monster&logoColor=lime"/>
-  </a>
+  </a> -->
   <a href="https://github.com/neozmmv/BlockGate">
     <img src="https://img.shields.io/badge/BlockGate-blue?style=for-the-badge"/>
   </a>
