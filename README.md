@@ -42,4 +42,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/neozmmv">
     <img src="https://img.shields.io/github/followers/neozmmv?label=follow&style=social"/>
   </a>
+  <a href="https://github.com/neozmmv">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=neozmmv"/>
+  </a>
 </div>
