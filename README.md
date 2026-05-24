@@ -22,6 +22,8 @@
 
 [![FileTunnel](https://img.shields.io/badge/FileTunnel-white?style=for-the-badge&logo=files&logoColor=orange)](https://files.enzogp.dev) - Serverless file sharing via Cloudflare Workers + R2.
 
+[![Cord](https://img.shields.io/badge/cord-darkblue?style=for-the-badge)](https://github.com/neozmmv/cord) - Developer-friendly TypeScript library for creating Discord applications.
+
 ---
 
 <div>
