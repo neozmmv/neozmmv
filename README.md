@@ -24,6 +24,8 @@
 
 [![Cord](https://img.shields.io/badge/cord-darkblue?style=for-the-badge)](https://github.com/neozmmv/cord) - Developer-friendly TypeScript library for creating Discord applications.
 
+[![Minecli](https://img.shields.io/badge/minecli-green?style=for-the-badge)](https://github.com/neozmmv/minecli) - Simple `itzg/minecraft-server` wrapper for simple logs and console.
+
 ---
 
 <div>
