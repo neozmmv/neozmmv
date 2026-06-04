@@ -26,6 +26,8 @@
 
 [![Minecli](https://img.shields.io/badge/minecli-green?style=for-the-badge)](https://github.com/neozmmv/minecli) - Simple `itzg/minecraft-server` wrapper for simple logs and console.
 
+[![Blindspot](https://img.shields.io/badge/blindspot-magenta?style=for-the-badge)](https://github.com/neozmmv/blindspot) - NAT bypass P2P toolkit with [rendezvous](https://github.com/neozmmv/rendezvous) server.
+
 ---
 
 <div>
