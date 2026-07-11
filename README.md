@@ -42,6 +42,6 @@
 <div>
 
 [![Follow](https://img.shields.io/github/followers/neozmmv?label=follow&style=social)](https://github.com/neozmmv)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neozmmv)
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neozmmv) -->
 
 </div>
