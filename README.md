@@ -28,12 +28,15 @@
 
 [![Blindspot](https://img.shields.io/badge/blindspot-magenta?style=for-the-badge)](https://github.com/neozmmv/blindspot) - NAT bypass P2P toolkit with [rendezvous](https://github.com/neozmmv/rendezvous) server.
 
+[![GitHub-Stats](https://img.shields.io/badge/GitHubStats-blue?style=for-the-badge)](https://github.com/neozmmv/github-stats) - Custom badges for customizing your README.md.
+
 ---
 
 <div>
 
 <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=neozmmv&show_icons=true&theme=github_dark&include_all_commits=true"/> -->
 <img height=220 src="https://github-stats.neozmmv.workers.dev/languages?username=neozmmv"/>
+<img height=220 src="https://github-stats.neozmmv.workers.dev/contributions?username=neozmmv"/>
 
 </div>
 
