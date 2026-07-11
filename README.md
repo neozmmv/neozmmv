@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,rust,go,linux,html,css,tailwind,react,nextjs,prisma,postgres,docker,kali,mysql&perline=10"/>
+<img src="https://skillicons.dev/icons?i=go,ts,cs,c,cpp,python,java,bun,rust,linux,astro,html,css,tailwind,react,nextjs,prisma,postgres,docker,kali,mysql,jest&perline=11"/>
 
 ---
 
