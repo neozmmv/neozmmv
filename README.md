@@ -30,6 +30,8 @@
 
 [![GitHub-Stats](https://img.shields.io/badge/GitHubStats-blue?style=for-the-badge)](https://github.com/neozmmv/github-stats) - Custom badges for customizing your README.md.
 
+[![Injektor](https://img.shields.io/badge/injektor-orange?style=for-the-badge)](https://github.com/neozmmv/injektor) - Universal environment variable injector.
+
 ---
 
 <div>
