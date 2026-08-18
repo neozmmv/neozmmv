@@ -20,13 +20,13 @@
 
 [![BlockGate](https://img.shields.io/badge/BlockGate-blue?style=for-the-badge)](https://github.com/neozmmv/BlockGate) - Minecraft server management panel via Docker. 100+ GitHub stars, ~200k views on r/selfhosted.
 
+[![Blindspot](https://img.shields.io/badge/blindspot-magenta?style=for-the-badge)](https://github.com/neozmmv/blindspot) - Encrypted P2P VPN / toolkit through CGNAT.
+
 [![FileTunnel](https://img.shields.io/badge/FileTunnel-white?style=for-the-badge&logo=files&logoColor=orange)](https://files.enzogp.dev) - Serverless file sharing via Cloudflare Workers + R2.
 
 [![Cord](https://img.shields.io/badge/cord-darkblue?style=for-the-badge)](https://github.com/neozmmv/cord) - Developer-friendly TypeScript library for creating Discord applications.
 
 [![Minecli](https://img.shields.io/badge/minecli-green?style=for-the-badge)](https://github.com/neozmmv/minecli) - Simple `itzg/minecraft-server` wrapper for simple logs and console.
-
-[![Blindspot](https://img.shields.io/badge/blindspot-magenta?style=for-the-badge)](https://github.com/neozmmv/blindspot) - NAT bypass P2P toolkit with [rendezvous](https://github.com/neozmmv/rendezvous) server.
 
 [![GitHub-Stats](https://img.shields.io/badge/GitHubStats-blue?style=for-the-badge)](https://github.com/neozmmv/github-stats) - Custom badges for customizing your README.md.
 
