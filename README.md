@@ -16,6 +16,8 @@
 
 ### projects
 
+[![Quix](https://img.shields.io/badge/Quix-darkblue?style=for-the-badge)](https://github.com/quixvpn/quix) - P2P Mesh VPN based on QUIC / Iroh.
+
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-purple?style=for-the-badge)](https://github.com/neozmmv/Lighthouse) - Self-hosted file transfer over Tor / Cloudflare Tunnel. Go + MinIO backend, Tauri desktop client.
 
 [![BlockGate](https://img.shields.io/badge/BlockGate-blue?style=for-the-badge)](https://github.com/neozmmv/BlockGate) - Minecraft server management panel via Docker. 100+ GitHub stars, ~200k views on r/selfhosted.
@@ -47,6 +49,6 @@
 <div>
 
 [![Follow](https://img.shields.io/github/followers/neozmmv?label=follow&style=social)](https://github.com/neozmmv)
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neozmmv) -->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neozmmv)
 
 </div>
