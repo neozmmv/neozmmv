@@ -60,7 +60,7 @@
   <!-- Top strip: figure label + sheet count + 'live' indicator -->
   <text x="36" y="40" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">FIG. 01    PROFILE</text>
   <g transform="translate(764 36)">
-    <text text-anchor="end" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">SHEET 01 / 05</text>
+    <text text-anchor="end" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">SHEET 01 / 02</text>
     <circle class="live" cx="6" cy="-3" r="2" fill="#ffffff" opacity="0.85"/>
   </g>
   <!-- Hairline divider under the top strip -->
@@ -122,6 +122,6 @@
   <g>
     <rect x="624" y="236" width="152" height="40" fill="none" stroke="#7d9fc4" stroke-width="1" stroke-opacity="0.55"/>
     <text x="632" y="248" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="8" letter-spacing="1.2">SHEET</text>
-    <text x="632" y="268" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">01 / 05</text>
+    <text x="632" y="268" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">01 / 02</text>
   </g>
 </svg>
